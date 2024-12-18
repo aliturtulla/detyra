@@ -1,1 +1,1 @@
-# detyra
+# detyrat
